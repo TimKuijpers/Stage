@@ -1,0 +1,8 @@
+homeDirectory=/NAS/minor-g1/
+nr=/NAS/minor-g1/non_redundant/nr
+genomes=/NAS/minor-g1/genomes/refseq/fungi/
+saveORF=/NAS/minor-g1/application/output/ORF/
+saveBlastORF=/NAS/minor-g1/application/output/ORF/
+outputORF=/NAS/minor-g1/application/output/ORF/
+outputReads=/NAS/minor-g1/application/output/Reads/
+diamondDB=/NAS/minor-g3/diamond/nr.dmnd
